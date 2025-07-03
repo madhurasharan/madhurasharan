@@ -1,24 +1,58 @@
 <h1 align="center">Hi 👋, I'm Madhura</h1>
-<h3 align="center">An aspiring full stack developer and engineering student</h3>
+<h3 align="center">An aspiring Full Stack Developer & Computer Science Student</h3>
 
-- 🔭 I’m currently working on a full stack web development project  
-- 🌱 I’m learning **React, DSA, and Machine Learning**  
-- 👯 I’m looking to collaborate on **web-based or Java projects**  
-- 💬 Ask me about **Java, HTML/CSS, Git, Python**  
-- 📫 Reach me at: **mail.madhurasn@gmail.com**  
-- ⚡ Fun fact: I love the sea, peace, and calmness!
+---
 
-### 🛠️ Languages and Tools
+### 💡 About Me
+
+- 🎓 CS Engineering student at Acharya Institute of Technology (2022–2026)
+- 🌱 Currently learning **React**, **DSA**, and **Machine Learning**
+- 🔭 Working on a **full stack project**
+- 💬 Ask me about **Java, HTML/CSS, Git, or Python**
+- 🧠 Passionate about tech, innovation, and building useful projects
+- 📫 Reach me at: **mail.madhurasn@gmail.com**
+
+---
+
+### 🧰 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,bootstrap,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,bootstrap,mongodb,mysql,git,github,vscode,figma" />
 </p>
 
-### 📊 GitHub Stats
+---
+
+### 🏆 Achievements
+
+- 🥇 **Winner** – Acharya INNOVATEX’24 Ideathon  
+- 💻 Selected for **Myntra HackerRamp 2024 (Round 2)**  
+- 🎓 SheCodes Scholar  
+- 📜 Completed courses from **IBM, Microsoft, Google, and Udemy**
+
+---
+
+### 🔥 GitHub Activity Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhuraSharan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhurasharan&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🏆 GitHub Trophies
+---
+
+### 📬 Let's Connect
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhuraSharan&theme=tokyonight" />
+  <a href="https://my-portfolio-liart-psi-99.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▲ Portfolio-Click Here-gray?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhurasharan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/madhurasharan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:mail.madhurasn@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-Me-orange?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
+
