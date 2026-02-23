@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madhura</h1>
-<h3 align="center">An aspiring Full Stack Developer & Computer Science Student</h3>
+<h3 align="center">An aspiring Java Backend Developer & Computer Science Student</h3>
 
 ---
 
 ### 💡 About Me
 
 - 🎓 CS Engineering student at Acharya Institute of Technology (2022–2026)
-- 🌱 Currently learning **React**, **DSA**, and **Machine Learning**
-- 🔭 Working on a **full stack project**
-- 💬 Ask me about **Java, HTML/CSS, Git, or Python**
 - 🧠 Passionate about tech, innovation, and building useful projects
 - 📫 Reach me at: **mail.madhurasn@gmail.com**
 
@@ -17,7 +14,7 @@
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,bootstrap,mongodb,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,bootstrap,mongodb,mysql,git,github,vscode,figma" />
 </p>
 
 ---
@@ -27,7 +24,7 @@
 - 🥇 **Winner** – Acharya INNOVATEX’24 Ideathon  
 - 💻 Selected for **Myntra HackerRamp 2024 (Round 2)**  
 - 🎓 SheCodes Scholar  
-- 📜 Completed courses from **IBM, Microsoft, Google, and Udemy**
+- 📜 Completed courses from **IBM, Google, and Udemy**
 
 ---
 
